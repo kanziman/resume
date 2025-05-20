@@ -52,7 +52,7 @@
   - 최신 분기보고서 기반 ChatGPT 대화 기능 (RAG 기반)
   - 챗봇 인터페이스
 
-🔗 [Scraper Repo](https://github.com/kanziman/kz-py) | [Backend Repo](https://github.com/kanziman/kz-msa)
+🔗 [Backend Repo](https://github.com/kanziman/kz-msa)
 
 ---
 
